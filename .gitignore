@@ -3,6 +3,24 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Visual Studio Code
+.vscode
+
+# videos
+
+*.mp4
+*.flv
+
+# some images
+# except svg
+
+*.jpg
+*.png
+
+# images sources
+
+*.odg
+
 # User-specific files
 *.suo
 *.user
