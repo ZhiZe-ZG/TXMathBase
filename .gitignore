@@ -14,8 +14,8 @@
 # some images
 # except svg
 
-*.jpg
-*.png
+#*.jpg
+#*.png
 
 # images sources
 
