@@ -111,6 +111,10 @@ GDB 的官网地址为 <https://www.gnu.org/software/gdb/>。
 
 ### 阅读资料
 
+* **GDB Tutorial A Walkthrough with Examples**
+
+这是一篇简单的 配有操作命令的GDB 使用教程，看完之后能进行简单的断点调试，非常建议一读。它是一篇在线文档，其地址为<https://www.cs.umd.edu/~srhuang/teaching/cmsc212/gdb-tutorial-handout.pdf>。
+
 * *Stallman, R., Pesch, R., Shebs, S.* (2019). **Debugging with GDB**
 
 这本书是 GDB 参考手册，而非一个简单易懂的教程，其中涉及的语言也不仅仅是 C，所以建议在阅读的时候挑其中一小部分能用上的内容略读就好。对于只需要编译 C 程序的人来说，这个工具完全可以不掌握。对于 C 开发者来说，现在也可以通过各种集成开发环境前端来调用 GDB 打断点，因而使用命令行操作 GDB 的机会其实比较少，相应的系统学习 GDB 的需求也比较低。
