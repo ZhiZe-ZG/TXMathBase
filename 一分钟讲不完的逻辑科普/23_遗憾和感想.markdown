@@ -27,4 +27,3 @@ Metamath China Mirror:  <http://cn.metamath.org/index.html>
 ## 后续
 
 至此为止，《一分钟讲不完的逻辑科普》算是告一段落了。之后我打算写一些读书笔记来继续数学和逻辑的学习。
-
